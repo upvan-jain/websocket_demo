@@ -4,9 +4,15 @@ This project is a hands-on, practical demonstration of how the stateful **WebSoc
 
 ---
 
-## Application Preview
+## Application Preview (Real-Time Bidirectional Messaging)
 
-![WebSocket Real-Time Chat Preview](./websocket_demo_screenshot.png)
+### Client 1 Perspective (Upvan's Window)
+*Shows Upvan sending a message (Blue) and receiving Alice's response in real-time (Dark).*
+![Upvan Perspective](./websocket_demo_upvan_screenshot.png)
+
+### Client 2 Perspective (Alice's Window)
+*Shows Alice receiving Upvan's message in real-time (Dark) and sending her reply (Blue).*
+![Alice Perspective](./websocket_demo_alice_screenshot.png)
 
 ---
 
